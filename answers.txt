@@ -1,0 +1,8 @@
+Q1: Why might be consider using git?
+
+Answer: We might consider using git because it has version control capabilities
+that make it easier to manage code and collaborate with other programmers on the
+same project. Git features include the ability to pull, push, create and checkout
+branches, create pull requests, create merge requests and resolve merge conflicts,
+etc., all of which allow us to maintain our code in a more organized and efficient
+manner.
