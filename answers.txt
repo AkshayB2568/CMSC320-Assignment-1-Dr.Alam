@@ -26,3 +26,12 @@ changes of the feature branch to the top of the main branch. Thus when rebasing,
 histories are not combined, but rather the history of the main branch is rewritten
 by the feature branch.
 
+Q4: What skills do you hope to improve during this course?
+
+Answer: The skills I hope to imrpove during this course are my data analysis skills
+and experimentation skills. I hope that by completing the final project, I will
+become more experienced and comfortable with utilizing statistical tests to analyze
+data from the dataset. Furthermore, by working with my final project team to create
+a research question and identify the variables that are at play, I hope that I will
+become more well-versed with creating hypotheses and research questions, both of
+which are important when coming up with an experiement.
