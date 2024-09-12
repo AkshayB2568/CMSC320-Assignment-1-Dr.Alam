@@ -14,4 +14,15 @@ datasets to make informed decisions. For example, data science can be applied to
 the field of healthcase. This is because data science and analysis methods can be 
 applied on hospital or patient data to help healthcare professionals
 potentially understand the correlation between certain symptoms and diagnoses, 
-ultimately allowing them to make smarter decisions about treatment options. 
+ultimately allowing them to make smarter decisions about treatment options.
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: The difference between merging and rebasing is that merging combines the 
+changes present in one branch into another branch, but it does so by combining the 
+histories of the two branches together. Rebasing, however, adds all of the
+changes of the feature branch to the top of the main branch. Thus when rebasing, the
+histories are not combined, but rather the history of the main branch is rewritten
+by the feature branch.
+
